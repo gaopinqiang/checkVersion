@@ -1,5 +1,5 @@
-versionCode:2
-versionName:1.1.0
+versionCode:3
+versionName:1.1.1
 fileSize:2.5M
 changelog:
 1、增加了歌词和歌手信息显示。
