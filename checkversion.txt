@@ -1,6 +1,6 @@
-versionCode:3
-versionName:1.1.1
-fileSize:2.5M
+versionCode:4
+versionName:1.1.2
+fileSize:3.1M
 changelog:
 1、增加了歌词和歌手信息显示。
 2、增加了在线升级功能。
