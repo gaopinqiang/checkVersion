@@ -1,5 +1,5 @@
-versionCode:4
-versionName:1.1.3
+versionCode:6
+versionName:1.1.4
 fileSize:3.23M
 changelog:
 1、加入了用户反馈功能，大家有好的建议快快提出来吧。
