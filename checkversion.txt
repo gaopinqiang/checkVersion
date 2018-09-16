@@ -2,6 +2,6 @@ versionCode:6
 versionName:1.1.4
 fileSize:3.23M
 changelog:
-1、加入了用户反馈功能，大家有好的建议快快提出来吧。
+1、增加了应用分享功能。
 2、解决了若干bug。
 快来更新体验吧！
