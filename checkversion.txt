@@ -1,6 +1,6 @@
-versionCode:6
-versionName:1.1.4
-fileSize:3.23M
+versionCode:7
+versionName:1.1.5
+fileSize:3.32M
 changelog:
 1、增加了应用分享功能。
 2、解决了若干bug。
