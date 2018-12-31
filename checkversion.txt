@@ -1,5 +1,5 @@
-versionCode:7
-versionName:1.1.5
+versionCode:8
+versionName:1.1.6
 fileSize:2.83M
 changelog:
 1、增加音乐库，下载更多歌曲。
