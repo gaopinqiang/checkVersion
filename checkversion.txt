@@ -9,6 +9,5 @@ changelog:
 5、修复一些UI显示异常问题。
 6、修复播放过程中下载，列表刷新异常问题。
 7、修复一些其它问题（提示，UI，反馈，分享等）12个。
-
 Happy New Year !!!
 From qiang
