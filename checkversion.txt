@@ -1,7 +1,7 @@
 versionCode:7
 versionName:1.1.5
 fileSize:2.83M
-更新日志:
+changelog:
 1、增加音乐库，下载更多歌曲。
 2、来电或微信电话音乐停止播放。
 3、适配android9.0一些兼容性问题。
@@ -9,5 +9,6 @@ fileSize:2.83M
 5、修复一些UI显示异常问题。
 6、修复播放过程中下载，列表刷新异常问题。
 7、修复一些其它问题（提示，UI，反馈，分享等）12个。
+
 Happy New Year !!!
 From qiang
