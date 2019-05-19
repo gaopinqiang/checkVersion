@@ -1,10 +1,9 @@
-versionCode:9
-versionName:2.0.0
-fileSize:6.90M
+versionCode:10
+versionName:2.0.1
+fileSize:6.85M
 changelog:
-重磅更新
-1、增加mv在线播放和下载功能。
-2、优化部分UI使用体验问题。
-3、解决了一些播放可能导致的崩溃问题。
-4、修复了一些bug（例如：下载歌曲没有歌词等15个）。
+紧急更新
+1、紧急修改部分音乐库无法下载问题。
+2、优化mv播放体验。
+3、更新捐赠记录。
 快来体验尝鲜吧！
